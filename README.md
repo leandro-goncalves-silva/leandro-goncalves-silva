@@ -1,16 +1,19 @@
-### Hi there 👋
+### Salve galera!
 
-<!--
-**leandro-goncalves-silva/leandro-goncalves-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bora codar....
 
-Here are some ideas to get you started:
+<p><hr></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table cellspacing="0" cellpadding="0" >
+    <tr width="100%">
+        <td ><img width="95%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogoncalves&hide=html&layout=compact&theme=buefy" /></td>
+        <td ><img width="95%" align="left" src="https://github-readme-stats.vercel.app/api?username=leandrogoncalves&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>   
+
+<p><hr></p>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=higorbarbossa" alt="leandrogoncalves" />
+</p>
