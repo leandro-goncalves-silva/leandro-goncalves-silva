@@ -2,6 +2,7 @@
 
 Bora codar....
 
+Obs: Os dados abaixo são do meu Github pessoal -> https://github.com/leandrogoncalves
 <p><hr></p>
 
 <center>
